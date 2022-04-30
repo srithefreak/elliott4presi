@@ -1,0 +1,1 @@
+Please describe what you changed and what it will introduce. How you changed the website to implement something is also appreciated. Screenshots of the final product help to get your pull request merged. Ping anybody who can review your work and make your pull request stand out even more. If the pull request solves the issue, link the issue so that we can close it.
