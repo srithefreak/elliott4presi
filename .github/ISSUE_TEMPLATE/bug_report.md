@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: How to file a bug report
+about: File a bug report.
 title: "[APPEALING BUG NAME]"
 labels: ''
 assignees: ''
