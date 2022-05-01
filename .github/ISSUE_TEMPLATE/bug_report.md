@@ -1,10 +1,20 @@
 ---
 name: Bug report
 about: How to file a bug report
-title: "[BUG]"
+title: "[APPEALING BUG NAME]"
 labels: ''
 assignees: ''
 
 ---
 
-Please describe what is wrong and what device you are using along with what operating system as well. Tell us what you wanted to or expected to happen and what actually happened. Any form of media that adds to help your description is encouraged.
+# Describe what is wrong
+
+# What device you are using
+
+# What operating system you are using
+
+# What you expected to happen
+
+# What actually happened 
+
+# Any form of media that adds to help your description
