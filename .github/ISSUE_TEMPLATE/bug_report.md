@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-# Describe what is wrong
+# Describe what is wrong.
 
-# What device you are using
+# What device did the bug occur on?
 
-# What operating system you are using
+# What operating system are you using?
 
-# What you expected to happen
+# What did you expected to happen?
 
-# What actually happened 
+# What actually happened?
 
-# Any form of media that adds to help your description
+# Any form of media that adds to help your description.
