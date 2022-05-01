@@ -3,4 +3,4 @@ All versions of the website are going to be supported in case any security vulne
 | ------- | ------------------ |
 | 0.0.30  | :white_check_mark: |
 
-If you find a security Vulnerability, please open a issue and clearly explain where it is and what it is, or send a pull request if you can fix it. Add the same information in the pull request along with an explanation of how you patched the vulnerability. I will try to patch the vulnerability or merge the pull request as fast I can and will provide constant communication throughout the process.
+If you find a security Vulnerability, please open a `Security vulnerability` issue or send a pull request if you can fix it. Add the same information in the pull request along with an explanation of how you patched the vulnerability. I will try to patch the vulnerability or merge the pull request as fast I can and will provide constant communication throughout the process.
