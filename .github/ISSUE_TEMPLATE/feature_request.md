@@ -2,7 +2,7 @@
 name: Feature request
 about: File a feature request.
 title: "[APPEALING FEATURE NAME]"
-labels: ''
+labels: 'Feature request'
 assignees: ''
 
 ---
