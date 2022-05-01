@@ -1,7 +1,7 @@
 ---
 name: Feature request
-about: How to file a feature request
-title: "[FEATURE]"
+about: File a feature request.
+title: "[APPEALING FEATURE NAME]"
 labels: ''
 assignees: ''
 
