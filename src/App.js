@@ -13,5 +13,7 @@ function App() {
     </div>
   );
 }
-
+if (App) {
+  console.log('Test')
+}
 export default App;
