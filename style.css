@@ -1,6 +1,9 @@
 .top-nav-bar {
     background-color: rgb(255, 0, 0);
     overflow: hidden;
+    font-family: Calibri, serif;
+    display: flex;
+    justify-content: center;
 }
 
 .top-nav-bar a {
@@ -18,6 +21,6 @@
 }
 
 .top-nav-bar a.active {
-    background-color: red;
+    background-color: blue;
     color: white;
 }
