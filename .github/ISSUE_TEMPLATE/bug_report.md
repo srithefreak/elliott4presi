@@ -13,8 +13,9 @@ assignees: ''
 
 # What operating system are you using?
 
-# What did you expected to happen?
+# What did you expect to happen?
 
-# What actually happened?
+# Steps to reproduce:
+* 
 
 # Any form of media that adds to help your description.
