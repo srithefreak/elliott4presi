@@ -21,9 +21,9 @@
     display: block;
 }
 
-.top-nav-bar a:hover {
-    background-color: white;
-    color: black;
+.top-nav-bar a:hover { 
+    background-color: white; 
+    color: black; 
 }
 
 .top-nav-bar a.active {
