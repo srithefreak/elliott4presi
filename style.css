@@ -1,5 +1,6 @@
 .top-nav-bar {
     background-color: rgb(255, 0, 0);
+    background-image: radial-gradient(red 80%, maroon);
     overflow: hidden;
     font-family: Calibri, serif;
     display: flex;
@@ -11,8 +12,8 @@
     z-index: 1;
 }
 
-.text {
-    z-index: 2;
+.content {
+    padding-top: 45px;
 }
 
 .top-nav-bar a {
@@ -55,6 +56,7 @@
         left: 0;
         right: 0;
         z-index: 1;
+        display: none;
     }
 
     .top-nav-bar.responsive .icon {
