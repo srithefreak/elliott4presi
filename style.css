@@ -1,6 +1,6 @@
 .top-nav-bar {
     background-color: rgb(255, 0, 0);
-    background-image: radial-gradient(red 80%, maroon);
+    background-image: radial-gradient(red 50%, maroon);
     overflow: hidden;
     font-family: Calibri, serif;
     display: flex;
@@ -14,8 +14,9 @@
 
 .content {
     padding-top: 30px;
-    font-size: 24px;
+    font-size: 36px;
     font-family: Calibri, serif;
+    color: #000000;
 }
 
 .top-nav-bar a {
