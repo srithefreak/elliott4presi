@@ -1,17 +1,31 @@
-.top-nav-bar {
-    background-color: rgb(255, 0, 0);
-    background-image: radial-gradient(red 50%, maroon);
-    overflow: hidden;
-    font-family: Calibri, serif;
-    display: flex;
-    justify-content: center;
-    position: fixed;
-    top: 0;
-    left: -10px;
-    width: 103%;
+.overview {
+    padding: 0;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -100px;
+    position: absolute;
+    background-color: #c73c3c;
+    filter: blur(10px);
+    height: 50%;
+    width: 100%;
+    z-index: 0;
+
+}
+
+.overview-text {
+    font-size: 2.4em;
+    right: 100px;
+    text-align: right;
+    font-weight: bold;
+    font-family: Calibri;
+    color: #ffffff;
+    width: 45%;
+    margin-bottom: -10px;
+    margin-left: 52%;
     z-index: 1;
 }
 
+<<<<<<< HEAD
 .content {
     padding-top: 30px;
     font-size: 36px;
@@ -78,3 +92,18 @@
     [O
 }
 
+=======
+/* place elliott's pfp to the left of the div */
+.elliott-pfp {
+    position: absolute;
+    left: 10%;
+    top: 30px;
+    width: 20%;
+    height: 80%;
+    background-color: #000000;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+>>>>>>> 81a5076159d93d06da88e8dcad91abc0d04edb90
