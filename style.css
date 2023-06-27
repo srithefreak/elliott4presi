@@ -8,7 +8,7 @@
     filter: blur(10px);
     height: 50%;
     width: 100%;
-    z-index: 0;
+    z-index: 1;
 
 }
 
@@ -23,4 +23,10 @@
     margin-bottom: -10px;
     margin-left: 52%;
     z-index: 1;
+}
+
+.elliott-pfp {
+	z-index: 0;
+	width: 100px;
+	length: 100px;
 }
