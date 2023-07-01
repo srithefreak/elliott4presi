@@ -1,13 +1,10 @@
 .overview-text {
     font-size: 2.4em;
-    right: 100px;
     text-align: right;
     font-weight: bold;
     font-family: "Comfortaa";
     color: #ffd700;
-    width: 45%;
-    margin-bottom: -10px;
-    margin-left: 52%;
+    width: 25%;
 }
 
 body {
