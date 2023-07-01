@@ -3,13 +3,17 @@
     right: 100px;
     text-align: right;
     font-weight: bold;
-    font-family: Calibri;
-    color: #ffffff;
+    font-family: "Comfortaa";
+    color: #ffd700;
     width: 45%;
     margin-bottom: -10px;
     margin-left: 52%;
 }
 
-#discord-profile-picture {
-	top: 0px;
+body {
+    background-color: #cc0000;
+}
+
+* {
+    box-sizing: border-box;
 }
