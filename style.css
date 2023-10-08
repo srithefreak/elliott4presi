@@ -28,4 +28,5 @@ body {
   z-index: 1;
   max-height: 100%;
   padding: 15px;
+  border-radius: 20%;
 }
