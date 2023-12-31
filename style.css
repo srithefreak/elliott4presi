@@ -1,9 +1,9 @@
 .overview-text {
   font-size: 2.4em;
   z-index: 1;
-  font-family: sans-serif;
+  font-family: "Century Gothic Regular", "Comic Sans MS", system-ui;
   font-weight: bold;
-  letter-spacing: 2.5px;
+  letter-spacing: 2px;
   color: #ffd700;
   padding-left: 20px;
   padding-right: 15px;
@@ -23,7 +23,7 @@ body {
   padding-bottom: 3px;
 }
 
-@-webkit-keyframes border {
+@keyframes border {
   from {
     width: 0px;
   }
@@ -59,4 +59,19 @@ body {
   max-height: 100%;
   padding: 15px;
   border-radius: 20%;
+  animation: floating 3s ease-in-out infinite;
+}
+
+@keyframes floating {
+  from {
+    transform: translate(0, 0px);
+  }
+
+  65% {
+    transform: translate(0, 10px);
+  }
+
+  to {
+    transform: translate(0, -0px);
+  }
 }
