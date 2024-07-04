@@ -34,7 +34,7 @@ body {
   }
 }
 
-#un:hover {
+#un:after {
   content: '';
   display: block;
   margin: auto;
