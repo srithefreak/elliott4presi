@@ -21,7 +21,6 @@ body {
   display: inline-block;
   position: relative;
   padding-bottom: 3px;
-  width: 0px;
 }
 
 @keyframes border {
