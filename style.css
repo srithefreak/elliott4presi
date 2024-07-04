@@ -17,7 +17,7 @@ body {
   -webkit-transition: opacity 2s;
 }
 
-#un {
+#un:hover {
   display: inline-block;
   position: relative;
   padding-bottom: 3px;
