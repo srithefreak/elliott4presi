@@ -17,7 +17,7 @@ body {
   -webkit-transition: opacity 2s;
 }
 
-#un {
+#emphasized {
   display: inline-block;
   position: relative;
   padding-bottom: 3px;
@@ -33,7 +33,7 @@ body {
   }
 }
 
-#un:after {
+#emphasized:after {
   content: '';
   display: block;
   margin: auto;
