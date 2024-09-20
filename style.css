@@ -45,6 +45,7 @@ body {
   animation-delay: 600ms;
   animation-fill-mode: forwards;
   border-radius: 10px;
+  color: transparent;
 }
 
 #container {
@@ -72,6 +73,6 @@ body {
   }
 
   to {
-    transform: translate(0, -0px);
+    transform: translate(0, 0px);
   }
 }
