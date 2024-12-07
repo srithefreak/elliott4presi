@@ -1,3 +1,0 @@
-function disappear() {
-    emphasized.remove();
-};

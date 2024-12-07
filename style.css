@@ -45,7 +45,6 @@ body {
   animation-delay: 600ms;
   animation-fill-mode: forwards;
   border-radius: 10px;
-  color: transparent;
 }
 
 #container {
@@ -60,7 +59,7 @@ body {
   max-height: 100%;
   padding: 15px;
   border-radius: 20%;
-  animation: floating 3s ease-in-out infinite;
+  animation: floating 4.5s ease-in-out infinite;
 }
 
 @keyframes floating {
